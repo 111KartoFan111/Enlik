@@ -15,7 +15,7 @@ function NEWSBLOCK({ className = "", newsId }) {
       </h2>
 
       <div className="news-line2" />
-      <h1 className="kairat-nurtas1">
+      <h1 className="titels1">
         {newsItem.title}
       </h1>
 

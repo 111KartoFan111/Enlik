@@ -19,9 +19,6 @@ function Collection({ className = "", collectionId = 1 }) {
           <div className="ukraine-description flex-container">
             <div className="few-countries-over-container text-base">
               <h2>Few countries over the last 100 years can match Ukraine’s achievements in art, music, literature, and science; fewer still have suffered as much violence, war, and tragedy. Before it had a Jewish president and became a battlefield for the future of freedom and democracy, Ukraine occupied a central place in Jewish history for centuries—and still does today. As it fights a war for survival, Ukraine remains one of the most important countries for Jews, Americans, the West, and the world.</h2>
-              <a href={`/collections/${collection.id}`}>
-                <button className="full-news text-base">Посмотреть всю новость →︎</button>
-              </a>
             </div>
           </div>
         </div>

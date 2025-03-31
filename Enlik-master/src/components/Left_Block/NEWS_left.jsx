@@ -18,13 +18,13 @@ function NEWS_left({ className = "" , newsId}) {
                   <div className="news-lines" />
               </div>
 
-              <h1 className="kairat-nurtas">
+              <h1 className="titels">
                   {newsItem.title}
               </h1>
           </div>
 
 
-          <b className="by-ismagulov-z">
+          <b className="by-shayahmet-z">
               BY {newsItem.author}
           </b>
 

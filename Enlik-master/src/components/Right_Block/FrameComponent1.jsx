@@ -56,14 +56,14 @@ function FrameComponent1({ className = "" }) {
                               <div className="news-line1" />
                           </div>
 
-                          <h1 className="kairat-nurtas6">
+                          <h1 className="titels6">
                               {news.find(item => item.id === sideNewsId)?.title || "Default Title"}
                           </h1>
                       </div>
 
                   </div>
 
-                  <b className="by-ismagulov-z8">
+                  <b className="by-shayahmet-z8">
                       BY {news.find(item => item.id === sideNewsId)?.author || "Author"}
                   </b>
 

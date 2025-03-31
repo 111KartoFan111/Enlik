@@ -35,10 +35,10 @@ function FrameComponent({ className = "", newsId}) {
                               {newsItem.descreption}
                           </h3>
 
-                          <b className="by-ismagulov-z4">
+                          <b className="by-shayahmet-z4">
                               BY {newsItem.author}
                           </b>
-                          <b className="by-ismagulov-z4">
+                          <b className="by-shayahmet-z4">
                               BY {newsItem.date}
                           </b>
                       </div>
@@ -69,7 +69,7 @@ function FrameComponent({ className = "", newsId}) {
                               </div>
 
                               <div className="third-news-author">
-                                  <h1 className="kairat-nurtas6">
+                                  <h1 className="titels6">
                                       {newsItem.title}
                               </h1>
 
@@ -79,7 +79,7 @@ function FrameComponent({ className = "", newsId}) {
                               </div>
                           </div>
 
-                          <b className="by-ismagulov-z5">
+                          <b className="by-shayahmet-z5">
                               BY {newsItem.author}
                           </b>
                       </div>
@@ -108,7 +108,7 @@ function FrameComponent({ className = "", newsId}) {
                       </div>
 
                       <div className="side-news-names">
-                          <h1 className="kairat-nurtas7">
+                          <h1 className="titels7">
                               {newsItem.title}
                           </h1>
 
@@ -118,7 +118,7 @@ function FrameComponent({ className = "", newsId}) {
                       </div>
                   </div>
 
-                  <b className="by-ismagulov-z5">
+                  <b className="by-shayahmet-z5">
                       BY {newsItem.author}
                   </b>
               </div>
@@ -143,7 +143,7 @@ function FrameComponent({ className = "", newsId}) {
                               <div className="news-line6" />
                           </div>
 
-                          <h1 className="kairat-nurtas8">
+                          <h1 className="titels8">
                               {newsItem.title}
                           </h1>
                       </div>
@@ -154,7 +154,7 @@ function FrameComponent({ className = "", newsId}) {
                           </h3>
                       </div>
 
-                      <b className="by-ismagulov-z5">
+                      <b className="by-shayahmet-z5">
                           BY {newsItem.author}
                       </b>
                   </div>

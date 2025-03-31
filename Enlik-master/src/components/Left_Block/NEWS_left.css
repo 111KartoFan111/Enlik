@@ -27,7 +27,7 @@
   box-sizing: border-box;
   gap: var(--gap-10xs);
 }
-.kairat-nurtas {
+.titels {
   margin: 0;
   width: 275px;
   height: 38px;
@@ -76,7 +76,7 @@
   font-size: var(--font-size-xl);
   color: var(--color-dimgray);
 }
-.by-ismagulov-z {
+.by-shayahmet-z {
   width: 199px;
   height: 17px;
   position: relative;

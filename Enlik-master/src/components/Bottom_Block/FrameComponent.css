@@ -75,7 +75,7 @@
   justify-content: center;
   flex-shrink: 0;
 }
-.by-ismagulov-z4 {
+.by-shayahmet-z4 {
   width: 286px;
   height: 17px;
   position: relative;
@@ -156,7 +156,7 @@
   padding: 0px 0px 0px var(--padding-12xs);
   box-sizing: border-box;
 }
-.kairat-nurtas6 {
+.titels6 {
   margin: 0;
   width: 230px;
   height: 30px;
@@ -205,7 +205,7 @@
   gap: var(--gap-xs);
   z-index: 2;
 }
-.by-ismagulov-z5 {
+.by-shayahmet-z5 {
   width: 230px;
   height: 17px;
   position: relative;
@@ -275,7 +275,7 @@
   box-sizing: border-box;
   gap: var(--gap-10xs);
 }
-.kairat-nurtas7 {
+.titels7 {
   margin: 0;
   width: 230px;
   height: 30px;
@@ -343,7 +343,7 @@
   gap: var(--gap-11xs);
   z-index: 1;
 }
-.kairat-nurtas8 {
+.titels8 {
   margin: 0;
   width: 230px;
   height: 38px;

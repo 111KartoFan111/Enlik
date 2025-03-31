@@ -22,11 +22,11 @@ function Component3({ className = "" , newsId}) {
               </div>
 
               <div className="image-news-author">
-                  <h1 className="kairat-nurtas4">
+                  <h1 className="titels4">
                       {newsItem.title}
                   </h1>
                   <div className="news-line6" >
-                    <b className="by-ismagulov-zx1">
+                    <b className="by-shayahmet-zx1">
                         BY {newsItem.author}
                     </b>
                     <a href={newsItem.url}>

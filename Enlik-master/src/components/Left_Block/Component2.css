@@ -28,7 +28,7 @@
   box-sizing: border-box;
   z-index: 2;
 }
-.kairat-nurtas2 {
+.titels2 {
   margin: 0;
   width: 199px;
   height: 37px;
@@ -40,7 +40,7 @@
   display: inline-block;
   flex-shrink: 0;
 }
-.by-ismagulov-z2 {
+.by-shayahmet-z2 {
   width: 199px;
   height: 17px;
   position: relative;
@@ -126,7 +126,7 @@
   padding: 0px 0px 0px var(--padding-45xl);
   box-sizing: border-box;
 }
-.kairat-nurtas3 {
+.titels3 {
   margin: 0;
   height: 38px;
   width: 199px;
@@ -148,7 +148,7 @@
   padding: 0px 0px 0px var(--padding-3xs);
   box-sizing: border-box;
 }
-.by-ismagulov-z3 {
+.by-shayahmet-z3 {
   top: 7px;
   width: 199px;
   height: 17px;
